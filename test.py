@@ -8,6 +8,9 @@ def add_randint(a):
 
 if __name__ == "__main__":
     a = [i for i in range(0,5)]
+    
+    print("modified")
+    
     print(a)
     
     add_randint(a)
